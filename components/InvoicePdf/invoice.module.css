@@ -1,0 +1,7 @@
+.container{
+    background: rgba(0, 0, 0, 0.267);
+    background-image: url("../../public/logo.png");
+    background-size: 630px;
+    background-position: center;
+    background-repeat: no-repeat;
+}

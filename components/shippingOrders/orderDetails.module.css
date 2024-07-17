@@ -1,0 +1,27 @@
+.container{
+    width: 900px;
+    margin: auto;
+
+
+}
+.checkout{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 4fr 5fr; 
+    grid-gap: 30px;
+
+}
+.userDetails{
+    padding: 20px 20px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.details{
+   
+    padding: 20px 20px;
+
+    width: 100%;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+}

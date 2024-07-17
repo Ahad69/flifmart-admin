@@ -1,0 +1,30 @@
+{
+  "name": "flifmart",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "^3.1.11",
+    "@tinymce/tinymce-react": "^4.3.0",
+    "antd": "^5.5.1",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "daisyui": "^2.52.0",
+    "html2canvas": "^1.4.1",
+    "js-cookie": "^3.0.5",
+    "jspdf": "^2.5.1",
+    "jwt-decode": "^3.1.2",
+    "next": "13.4.4",
+    "postcss": "8.4.24",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.9.0",
+    "sweetalert2": "^11.7.9",
+    "tailwindcss": "3.3.2"
+  }
+}
